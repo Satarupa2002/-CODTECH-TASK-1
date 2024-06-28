@@ -7,6 +7,10 @@ Mentor: Muzzamil Ahemed
 
 PROJECT OVERVIEW
 
+![Screenshot 2024-06-28 105550](https://github.com/Satarupa2002/-CODTECH-TASK-1/assets/174084276/1326185b-3e81-49b7-ac11-2cef30ddf075)
+
+
+
 Components and brief descriptions:
 DHT22 Sensor: Provides accurate measurements of temperature and humidity, essential for real-time weather monitoring.
 Analog Pressure Sensor: Measures atmospheric pressure, crucial for understanding weather patterns and changes.
